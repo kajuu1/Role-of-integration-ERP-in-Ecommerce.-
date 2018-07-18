@@ -1,0 +1,2 @@
+# Role-of-integration-ERP-in-Ecommerce.-
+ERP integration plays a important role in E-commerce business it helps in growth of business and generate more revenue. most popular ERP integration pattern are migration, broadcast, agregation, correlation. E-Commerce ERP integration allows you to easily account for new orders and fulfill them , customers automatically get notify  when orders have been shipped and allow them to track the delivery of products. Products and pricing can be managed from one place.The.ERP stands for “enterprise resource planning".
